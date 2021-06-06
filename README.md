@@ -1,2 +1,2 @@
 # MyOS
-Trying to make my own OS-Kernel &amp; Bootloader from scratch, without any previous experience
+MyOS aims to be fully optimised, memory managed Multi-Threaded OS-Kernel, that is, when I complete this Project
